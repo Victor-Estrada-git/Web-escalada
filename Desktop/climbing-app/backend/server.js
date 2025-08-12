@@ -6,7 +6,7 @@ const passport = require('passport');
 require('dotenv').config();
 
 // Importa la configuración de Passport.js
-require('./config/passport'); 
+require('C:\Users\darka\OneDrive\Escritorio\Web-escalada\Desktop\climbing-app\backend'); 
 
 const app = express();
 
